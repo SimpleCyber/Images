@@ -18,6 +18,8 @@ Here’s a **clean README-friendly list** of all the image links you’ve shared
 ### **Imposter**
 
 ![Imposter](https://github.com/user-attachments/assets/2238bf9c-d69d-4338-9876-b169300dec61)
+<img width="148" height="144" alt="image" src="https://github.com/user-attachments/assets/7efa815c-bce5-44e0-bbd3-0e807e1f4c71" />
+
 
 ### **XKCD Comic**
 
