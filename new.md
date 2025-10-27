@@ -88,7 +88,7 @@ Here’s a **clean README-friendly list** of all the image links you’ve shared
 
 ---
 
-<img width="454" height="411" alt="image" src="https://github.com/user-attachments/assets/51de3218-e7c8-46ae-a0cd-2a7e1250932a" />
+<img width="133" height="95" alt="image" src="https://github.com/user-attachments/assets/b017cb03-00c9-43ca-9604-bcbcd8090179" />
 
 
 Would you like me to make this **visually compact** (e.g., 3–4 icons per row using `<img>` tags) so it looks cleaner in your GitHub README’s **Tech Stack** section?
