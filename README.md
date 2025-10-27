@@ -43,4 +43,7 @@ Movie app :
 Rentex App :
 <img width="1900" height="899" alt="image" src="https://github.com/user-attachments/assets/c17bb1f8-751a-4b12-982a-2e4033fd4eed" />
 
+profile pic :
+<img width="959" height="861" alt="image" src="https://github.com/user-attachments/assets/5954c508-cb31-4f6a-9a5f-ca6238d25102" />
+
 
