@@ -10,6 +10,7 @@ Dashboard :
 Interview :
 <img width="1900" height="916" alt="Screenshot 2025-10-23 084251" src="https://github.com/user-attachments/assets/0986c0cf-6b0a-4d72-b654-5f4faea76c75" />
 
+<img width="622" height="557" alt="Screenshot 2025-05-09 225127" src="https://github.com/user-attachments/assets/c6ecfaa2-2f12-4b29-9aac-d161741c399f" />
 
 
 **Habit x :
