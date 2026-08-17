@@ -41,6 +41,8 @@ Movie app :
 <img width="1897" height="920" alt="image" src="https://github.com/user-attachments/assets/562b990c-51c0-4906-9636-b239fc9ea945" />
 
 
+[Minnlonare](https://raw.githubusercontent.com/SimpleCyber/Images/main/(Updated)%20The%20Millionaire%20Fastlane.pdf#page=90)
+
 Rentex App :
 <img width="1900" height="899" alt="image" src="https://github.com/user-attachments/assets/c17bb1f8-751a-4b12-982a-2e4033fd4eed" />
 
